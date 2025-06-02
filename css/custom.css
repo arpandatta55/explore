@@ -323,7 +323,8 @@ h6 {
 }
 
 .ex-card {
-  background: #000;
+  /* background: #000; */
+  background: red;
   padding: 100px 0;
 }
 
